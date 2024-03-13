@@ -4,7 +4,7 @@
 
 - 🚴🏽 I believe that effective web development goes beyond writing code—it's about understanding the needs of businesses and users alike. With my background in different industries, I bring a unique perspective to every project, ensuring that the solutions I deliver are not only technically sound but also aligned with broader business goals.
 
-- 🏎️ Outside of coding, you'll find me exploring the world through the lens of my camera, capturing moments and sharing them with the world on my YouTube channel. This creative outlet fuels my passion for innovation and inspires me to push the boundaries of what's possible in web development.
+- 🏎️ Outside of coding, you'll find me exploring the world through the lens of my camera, capturing moments and sharing them with the world. This creative outlet fuels my passion for innovation and inspires me to push the boundaries of what's possible in web development.
 
 - 🧡 I'm always open to new opportunities and collaborations. Whether you're looking to build a cutting-edge web application or simply want to chat about the latest tech trends, feel free to reach out—I'd love to hear from you!
 
