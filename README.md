@@ -1,14 +1,33 @@
-- 👋 Hey there! I'm Denis, a passionate Fullstack Web Developer with a knack for turning ideas into reality through code. My journey in the world of technology started from diverse experiences, ranging from spearheading IT projects at major companies to founding my own venture, Lobotryasi Coffee Roasters. With each step, I've honed my skills in web development, focusing on creating seamless user experiences and robust backend systems.
+# 👋 Hi, I'm Denis — Backend Engineer with a Product Mindset
 
-- 👨🏼‍💻As a Fullstack developer, I thrive on the challenge of bridging the gap between frontend and backend development. I'm proficient in a wide range of technologies, including JavaScript, TypeScript, React, Redux for the frontend, and Node.js, PostgreSQL for the backend. My goal is not just to build functional websites but to craft elegant solutions that drive business success.
+I'm a backend-focused software engineer with a foundation in fullstack development and a passion for building clean, scalable, and resilient systems. My experience ranges from early-stage startups to enterprise environments, where I've led development across the stack — from designing REST APIs and microservices to shipping production-ready UIs.
 
-- 🚴🏽 I believe that effective web development goes beyond writing code—it's about understanding the needs of businesses and users alike. With my background in different industries, I bring a unique perspective to every project, ensuring that the solutions I deliver are not only technically sound but also aligned with broader business goals.
+## 🛠️ Core Stack
 
-- 🏎️ Outside of coding, you'll find me exploring the world through the lens of my camera, capturing moments and sharing them with the world. This creative outlet fuels my passion for innovation and inspires me to push the boundaries of what's possible in web development.
+- **Languages**: Java (Spring Boot), TypeScript (Node.js), JavaScript
+- **Backend**: Spring Boot, Node.js/Express, PostgreSQL, Redis, Kafka
+- **Frontend (when needed)**: React, Redux, TailwindCSS
+- **Infrastructure**: Docker, AWS (S3, EC2, RDS), GitHub Actions, CI/CD
+- **Architecture**: Microservices, Event-Driven Systems, REST APIs
 
-- 🧡 I'm always open to new opportunities and collaborations. Whether you're looking to build a cutting-edge web application or simply want to chat about the latest tech trends, feel free to reach out—I'd love to hear from you!
+## 🔍 What I Focus On
 
-<!---
-DenisIgnatenko/DenisIgnatenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Designing backend services that are **robust**, **observable**, and **easy to extend**
+- Writing code that follows **SOLID** principles and clean architecture
+- Balancing speed of delivery with long-term maintainability
+- Thinking not only as a developer, but as a **product engineer** — understanding business value behind the code
+
+## 💼 Recent Work
+
+- Built a production-grade **URL Shortener** microservice with Java + Spring Boot (Redis, PostgreSQL, Clean Architecture, Dockerized)
+- Designed and maintained **Smart Mirror kiosk UI and backend APIs** (React + Node.js + AWS)
+- Delivered backend modules for a **developer social network** — including notifications, achievements, and pub/sub messaging
+
+## 🌍 A Bit More About Me
+
+Originally from Moscow, I’m now based in Denmark, where I relocated with my family to pursue new professional challenges. Outside of tech, I’m a photographer, videographer, and weekend cyclist 🚴 — always curious, always learning.
+
+---
+
+📬 **Let’s connect**  
+If you're hiring or looking to collaborate on backend-heavy projects, feel free to reach out or explore my repositories. I’m always open to opportunities that push me to grow as an engineer and a thinker.
